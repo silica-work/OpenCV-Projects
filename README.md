@@ -1,2 +1,2 @@
-# demo
-My first Git Repository
+# OpenCv Project
+Face Recognition Project 
